@@ -1,5 +1,5 @@
 this is a wip heh
-<img width="2048" height="500" alt="image" src="https://github.com/user-attachments/assets/411db002-2e8c-40d5-8417-ed04081f246d" />
+<img src="https://github.com/user-attachments/assets/411db002-2e8c-40d5-8417-ed04081f246d" />
 
 <img  align="left" width="30%" height="30%" src="https://i.ibb.co/xvJTSNW/yumecomm.jpg" />
 
@@ -46,4 +46,4 @@ $${\color{#37875a} artist \space  \space Ⳋ᧙ \space \space nonhuman \space fr
 $${\color{#347450} eng \space  \space ╱ \space \space esp \space \space speaker}$$<br>
 $${\color{#326348} the \space storm \space system \space < \space 10 \space .19 \space .24 \space 3}$$<br>
   
-<img width="2048" height="500" alt="image" src="https://github.com/user-attachments/assets/6c60bb30-0541-4ed0-986e-11f60661c462" />
+<img src="https://github.com/user-attachments/assets/6c60bb30-0541-4ed0-986e-11f60661c462" />
