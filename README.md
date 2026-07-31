@@ -42,7 +42,7 @@ $${\color{#326348} ⋆⠀⠀₊ \space minors \space iwc \space ︶ \space -15 \
 
 <div align="center">
 
-$${\color{#37875a} artist \space  \space Ⳋ᧙ \space \space nonhuman \space creature}$$<br>
+$${\color{#37875a} artist \space  \space Ⳋ᧙ \space \space nonhuman \space creaturefreak}$$<br>
 $${\color{#347450} eng \space  \space ╱ \space \space esp \space \space speaker}$$<br>
 $${\color{#326348} the \space storm \space system \space < \space 10 \space .19 \space .24 \space 3}$$<br>
   
